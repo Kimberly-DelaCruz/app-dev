@@ -2,7 +2,7 @@
 My First Repository
 **Tomorrow**
 
-**The main Grim Reaper characters of the movies are: **
+**The main Grim Reaper characters of the movies are:**
 1. Kim Hee-sun as **Goo Ryeon**
 2. Yoo Ji-on as **Lim Ryung-gu**
 3. Rowoon as Choi **Joon-woong**
